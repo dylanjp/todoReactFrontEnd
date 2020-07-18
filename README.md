@@ -6,7 +6,7 @@ If you are using a mac it needs to be : PORT=4200 react-scripts start
 
 Then you simply need to run "npm install" and "npm start" and you should be good to go!
 
-USERNAME: Rozzy
+USERNAME: Rozzy<br />
 PASSWORD: dummy
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
