@@ -15,6 +15,8 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
+    "comment": "echo \"if using mac swith start script to PORT=4200 react-scripts start",
+    "comment2": "echo \"if using windows swith start script to SET PORT=4200 && react-scripts start",
     "start": "SET PORT=4200 && react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
