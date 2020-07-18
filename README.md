@@ -1,6 +1,8 @@
 ## Steps to Run
 You will need to change the start script is package.json depending on your OS.
+
 If you are using Windows it needs to be : SET PORT=4200 && react-scripts start
+
 If you are using a mac it needs to be : PORT=4200 react-scripts start
 
 Then you simply need to run "npm install" and "npm start" and you should be good to go!
