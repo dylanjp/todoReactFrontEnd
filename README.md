@@ -1,8 +1,7 @@
 ## Steps to Run
 You will need to change the start script is package.json depending on your OS.
 
-If you are using Windows it needs to be : SET PORT=4200 && react-scripts start
-
+If you are using Windows it needs to be : SET PORT=4200 && react-scripts start<br />
 If you are using a mac it needs to be : PORT=4200 react-scripts start
 
 Then you simply need to run "npm install" and "npm start" and you should be good to go!
@@ -16,7 +15,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:4200](http://localhost:4200) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
